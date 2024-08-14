@@ -1,0 +1,1 @@
+/home/cecilia/Personal_Implementations_Of_MathWeb3Cohort/check_if_number_is_prime/target/debug/check_if_number_is_prime: /home/cecilia/Personal_Implementations_Of_MathWeb3Cohort/check_if_number_is_prime/src/main.rs
