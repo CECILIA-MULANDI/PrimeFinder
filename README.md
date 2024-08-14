@@ -10,4 +10,4 @@
 
 3. check_if_composite(n: u128) -> String
 
-  This function determines whether a given number n is prime or composite. It uses the is_prime function and returns a string indicating whether the number is prime or composite. This is a simple utility function that provides a user-friendly output.
+   This function determines whether a given number n is prime or composite. It uses the is_prime function and returns a string indicating whether the number is prime or composite. This is a simple utility function that provides a user-friendly output.
